@@ -1,0 +1,16 @@
+.card {
+    background-color: rgb(206, 75, 75);
+    font-size: 180%;
+    width: 625px;
+}
+.card1 {
+    background-color: rgb(83, 17, 17);
+    color: palevioletred;
+    font-size: larger;
+    
+}
+#Hobi{
+    color: blue;
+    font-weight: 600;
+    
+}
